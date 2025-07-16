@@ -1,0 +1,4 @@
+timestamp,sat_id,power_bus_voltage,board_temp,cpu_load
+2025-07-16T18:00:01Z,SAT-42,34.8,41.3,78.1
+2025-07-16T18:00:11Z,SAT-42,34.7,41.4,79.0
+2025-07-16T18:00:21Z,SAT-42,34.6,41.2,78.6

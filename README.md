@@ -179,10 +179,6 @@ Edit the CSV to force alerts if you want to showcase the engine.
 
 ## License / Status
 
-No license specified yet (personal demo / interview project). Feel free to read; not production‑hardened.
+No license specified yet (personal demo). Feel free to read; not production‑hardened.
 
 ---
-
-## Contact
-
-Questions / feedback welcome.

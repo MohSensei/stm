@@ -1,0 +1,5 @@
+[
+  { "sensor": "power_bus_voltage", "yellowLow": 33.0, "redLow": 32.0 },
+  { "sensor": "board_temp",        "yellowHigh": 45.0, "redHigh": 50.0 },
+  { "sensor": "cpu_load",          "yellowHigh": 85.0, "redHigh": 95.0 }
+]

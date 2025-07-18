@@ -7,7 +7,7 @@ A focused Java 17 command‑line project that:
 3. Optionally loads limit rules (yellow / red thresholds) from a JSON file.
 4. Evaluates each packet; emits alerts for out‑of‑range values.
 
-It’s intentionally small but structured like a production service. Good for demonstrating core skills: build tooling (Maven + Shade), clean packages, defensive modeling, streaming IO, JSON config, a tiny rule engine, unit tests (JUnit 5), and reproducible packaging.
+Java 17 command‑line tool to read satellite telemetry from a CSV file, convert each row into a TelemetryPacket, optionally apply JSON‑defined limit rules (yellow / red thresholds), and emit alerts for any out‑of‑range sensor values. Shows core skills: structured parsing, immutable modeling, simple rule engine, JSON config, testing, and single‑jar packaging.
 
 ---
 
